@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=73A9AD&height=150&section=header&text=Seo-Ireu&fontSize=70&fontColor=73A9AD&animation=blink&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+  
 ### Hi there 👋
 ## 💻Major
 Computer Science
